@@ -8,4 +8,5 @@ I have used a tomcat user for stop/starting the application server. Variables ha
 
 stop, start & restart is managed by $TOMCAT_HOME/tomcat.sh script
 
+To test : http://localhost:8080/
 
